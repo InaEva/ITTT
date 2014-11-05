@@ -1,0 +1,10 @@
+javac -cp "
+C:\Users\Saint\Development\apache-tomcat-7.0.55\lib\servlet-api.jar" HomeServl
+et.java Enquete.java Question.java DataKeeper.java EnqueteServlet.java User.java
+ Session.java LoginServlet.java MyLoketServlet.java LogOutServlet.java EnqueteAc
+tiveServlet.java RegisterServlet.java DeleteEnqueteServlet.java CompleteEnqueteS
+ervlet.java Answer.java;
+
+jar cvf inaenq.war .
+
+
